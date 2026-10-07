@@ -45,13 +45,32 @@ An admin disabled it by mistake
 
 <img width="1902" height="811" alt="Screenshot 2026-10-03 194801" src="https://github.com/user-attachments/assets/f9f650aa-5330-49cc-afe5-a658d8ddf9bf" />
 
-in this section i unlocked user locked account and enable  a disabled
+In this section i unlocked user locked account and enable  a disabled
+
+
 <img width="1912" height="795" alt="Screenshot 2026-10-04 084439" src="https://github.com/user-attachments/assets/596df0b1-e57b-427f-b5be-5d27b9715938" />
 
 
+<h3> Creating a New User </h3>  
+
+
+In this section i am creating a new user account 
+why? you ask 
+
+Help desk creates a new user account when:
+
+A new employee is hired
+A contractor or intern starts
+Someone returns after leaving the company
+An employee needs a separate admin account
+A shared or service account is needed for a team or system
+A test account is needed for training or troubleshooting
 
 
 
+<img width="1911" height="837" alt="Screenshot 2026-10-04 093254" src="https://github.com/user-attachments/assets/d3e4d89b-07de-4005-bf57-caa4bbb18e02" />
 
+
+in this Section i created three new account users
 
 
