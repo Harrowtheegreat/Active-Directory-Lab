@@ -100,8 +100,8 @@ Groups they belong to
 <img width="1907" height="834" alt="Screenshot 2026-10-04 112354" src="https://github.com/user-attachments/assets/13254823-9b9a-4f77-895f-c587de37ceee" />
 
 
-<h3>Security log Section/h3>
-
+ 
+<h3>Security log Section</h3>
 
 The security log is important because it:
 
