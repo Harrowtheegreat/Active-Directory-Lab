@@ -71,6 +71,46 @@ A test account is needed for training or troubleshooting
 <img width="1911" height="837" alt="Screenshot 2026-10-04 093254" src="https://github.com/user-attachments/assets/d3e4d89b-07de-4005-bf57-caa4bbb18e02" />
 
 
-in this Section i created three new account users
 
 
+In this Section i created three new account users
+
+
+
+<img width="1916" height="837" alt="Screenshot 2026-10-04 104348" src="https://github.com/user-attachments/assets/4c02c676-fcac-4ff6-85c4-d81a3f7f5c0f" />
+
+
+In this section I created a new user while assigning them to a computer giving them a basic password which they can change later or keep depending on the company  
+
+
+<img width="1917" height="830" alt="Screenshot 2026-10-04 111626" src="https://github.com/user-attachments/assets/57115afb-70f2-4290-be6b-f942638ae60a" />
+
+
+
+In the properties section it shows you details such as 
+
+Name and full path (distinguished name)
+Status: Enabled, Disabled, Locked out, or Must change password
+Logon name and UPN (email-style sign-in)
+Job title, department, email, phone, description
+Bad sign-ins (for example, 3 of 5)
+Last sign-in, password last set, and date created
+Groups they belong to
+
+<img width="1907" height="834" alt="Screenshot 2026-10-04 112354" src="https://github.com/user-attachments/assets/13254823-9b9a-4f77-895f-c587de37ceee" />
+
+
+<h3>Security log Section /h3>
+
+
+The security log is important because it:
+
+Shows who did what and when, so every change can be traced
+Helps troubleshoot, like finding why a user got locked out
+Spots attacks, such as many failed sign-ins in a row
+Supports investigations after a security incident
+Proves compliance, since audits often require activity records
+Keeps admins accountable for changes they make
+
+
+<img width="1915" height="760" alt="Screenshot 2026-10-04 160745" src="https://github.com/user-attachments/assets/b85f6a5f-986e-46ea-a037-6b9b8a776865" />
